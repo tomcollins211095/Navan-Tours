@@ -14,15 +14,15 @@ In this section, you should go over the different parts of your project, and des
 
 - __Menu__
 
-  - The menu headers with their hover design.
+  - The site contains a website must have of a menu across the top of the page with a hover effect for a more in depth user experience. 
 
 - __The landing page__
 
-  - The landing page is colourful and attractive for a user to spend time on.
+  - The landing page is colourful and attractive for a user to spend time on. The background image is quite visible here, more so than on other pages.
 
 - __Contact Page__
 
-  - The conact page features a form that doesn't send the information anywhere but has a """post and get feature???""" 
+  - The conact page features a form that doesn't send has a """post and get feature???""" 
   as to show the user the function of them submitting the form.
 
 - __NewsLetter__
@@ -31,16 +31,13 @@ In this section, you should go over the different parts of your project, and des
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites and copyright info. The social media links are 
-  designed with font awesome icons.
+  - The footer section includes links to the relevant social media sites and copyright info. The social media links are designed with font awesome icons.
 
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems.
+Is this website responive? Yes it is and here is how:
 
 ### Validator Testing 
 
