@@ -1,11 +1,10 @@
 # Navan Tours
 
-In this section, you will include one or two paragraphs
+Welcome to the Navan Tours website, an information and booking platform for a Navan Heritage group service.
 
-    - Menu items and features intro.
+    - The website consists of ___ pages, presented inline with user experience rules.
 
-    - Menu items and features a little explanation.
-
+    - The user is presented with a colorful, informative site that is balanced and a responsive mobile first design.
 
 ## Features 
 
@@ -15,15 +14,16 @@ In this section, you should go over the different parts of your project, and des
 
 - __Menu__
 
-  - Menu items and features.
+  - The menu headers with their hover design.
 
-- __The landing page image__
+- __The landing page__
 
-  - The landing includes.
+  - The landing page is colourful and attractive for a user to spend time on.
 
 - __Contact Page__
 
-  - Conact page and form.
+  - The conact page features a form that doesn't send the information anywhere but has a """post and get feature???""" 
+  as to show the user the function of them submitting the form.
 
 - __NewsLetter__
 
@@ -31,7 +31,8 @@ In this section, you should go over the different parts of your project, and des
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites and copyright info.
+  - The footer section includes links to the relevant social media sites and copyright info. The social media links are 
+  designed with font awesome icons.
 
 ## Testing 
 
@@ -48,6 +49,8 @@ You should also mention in this section any interesting bugs or problems.
 
 - CSS
   - No errors were found when passing through the official.
+  
+  ![CSS validation](https://user-images.githubusercontent.com/127897306/225692727-6341a504-649e-431a-ac37-c411c9279af3.jpg)  
 
 ### Unfixed Bugs
 
