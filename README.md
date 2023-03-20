@@ -2,6 +2,8 @@
 
 Welcome to the Navan Tours website, an information and booking platform for a Navan Heritage group service.
 
+ - ___Navan Tours____
+
     - The website consists of ___ pages, presented inline with user experience rules.
 
     - The user is presented with a colorful, informative site that is balanced and a responsive mobile first design.
