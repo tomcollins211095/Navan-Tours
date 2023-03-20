@@ -2,7 +2,7 @@
 
 Welcome to the Navan Tours website, an information and booking platform for a Navan Heritage group service.
 
- - ___Navan Tours____
+ - ___Navan Tours___
 
     - The website consists of ___ pages, presented inline with user experience rules.
 
